@@ -13,4 +13,4 @@ It demonstrates Git workflow, collaboration, and version control.
 1. Clone the repository.
 2. Create a new branch.
 3. Make changes and commit them.
-4. Push to GitHub and create a pull request.
+
