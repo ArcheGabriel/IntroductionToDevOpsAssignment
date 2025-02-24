@@ -17,3 +17,4 @@ It demonstrates Git workflow, collaboration, and version control.
 5. Line added by Jayshree.
 6. The assignment is preety long by JAyshree
 7. Seventh line addedddd by Muskan
+8. Resolved a conflicting line by changing the position of the line
